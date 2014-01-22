@@ -2,16 +2,14 @@ PATH
   remote: .
   specs:
     docx (0.2.04)
-      nokogiri (~> 1.5)
+      nokogiri (= 1.5.11)
       rubyzip (~> 1.0)
 
 GEM
   remote: https://rubygems.org/
   specs:
     diff-lcs (1.2.5)
-    mini_portile (0.5.2)
-    nokogiri (1.6.1)
-      mini_portile (~> 0.5.0)
+    nokogiri (1.5.11)
     rspec (2.14.1)
       rspec-core (~> 2.14.0)
       rspec-expectations (~> 2.14.0)
